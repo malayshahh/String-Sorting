@@ -1,0 +1,80 @@
+Test Cases:
+
+Case 1: 
+Output:
+
+Case 2: Telescope Birds??Dogs
+Output:
+Error, too many input parameters. Program will return
+
+Case 3: "hi my name is NIck and Nick will be trying to break this program"
+Output:
+NIck
+Nick
+and
+be
+break
+hi
+is
+my
+name
+this
+to
+trying
+will
+
+Case 4: "Telescope??Birds?Dogs"Yep
+Output:
+Birds
+DogsYep
+Telescope
+
+Case 5: "2be4not2be"
+Output:
+be
+be
+not
+
+Case 6: "Team??TEam??TEAm??"
+Output:
+TEAm
+TEam
+Team
+
+Case 7: "Nick nI[ck 2niC346k n\0icK NICK nick9asdjk f aj;f"
+Output:
+NICK
+Nick
+aj
+asdjk
+ck
+f
+f
+icK
+k
+n
+nI
+niC
+nick
+
+Case  8: 3447565345847362
+Output:
+
+Case 9: HoneyTurtle12LemonHoneyTurtle12Lemon?Words??Wordss??Wordss
+Output:
+HoneyTurtle
+Lemon
+LemonHoneyTurtle
+Words
+Wordss
+Wordss
+
+Case 10: ""
+Output:
+
+Case 11: "Snake? SNAKE??? SNAAAKE\!\!one\!"
+Output:
+SNAAAKE
+SNAKE
+Snake
+one
